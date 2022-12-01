@@ -1,0 +1,37 @@
+const products=[
+    {
+        id:1,
+        nombre:"Vans",
+        precio: 2050,
+        img:"../Imagenes",
+        categoria:"Zapatilla",
+    },
+    {
+        id:2,
+        nombre:"Vans",
+        precio:35200,
+        img:"../imagenes/vans2.jpg",
+        categoria:"Buzo",
+    },
+    {
+        id:3,
+        nombre:"Nike",
+        precio:2321,
+        img:"../imagenes/nike1.jpg",
+        categoria:"gorra",
+    },
+    {
+        id:4,
+        nombre:"Nike",
+        precio:5555,
+        img:"../imagenes/nike2.jpg",
+        categoria:"Zapatilla",
+    },
+    {
+        id:5,
+        nombre:"Puma",
+        precio:4322,
+        img:"../imagenes/puma1.jpg",
+        categoria:"Remera",
+    }
+]
