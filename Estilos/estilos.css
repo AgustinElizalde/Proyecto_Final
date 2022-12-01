@@ -244,7 +244,7 @@ li {
     /*Ancho*/
     overflow: hidden;
     position: relative;
-    background-image: url("/Imagenes/depo1.jpg");
+    background-image: url("../Imagenes/depo1.jpg");
     background-position: cover;
     background-repeat: no-repeat;
     background-size: cover;
@@ -266,26 +266,26 @@ li {
 
 @keyframes navarro {
     0% {
-        background-image: url("/imagenes/deporte.jpg");
+        background-image: url("../Imagenes/deporte.jpg");
     }
 
     25% {
-        background-image: url("/imagenes/jota.jpg");
+        background-image: url("../Imagenes/jota.jpg");
 
     }
 
     50% {
 
-        background-image: url("/imagenes/d.jpg");
+        background-image: url("../Imagenes/d.jpg");
 
     }
 
     75% {
-        background-image: url("/imagenes/papapa.jpg");
+        background-image: url("../Imagenes/papapa.jpg");
     }
 
     100% {
-        background-image: url("/imagenes/aprobe.jpg");
+        background-image: url("../Imagenes/aprobe.jpg");
     }
 
 
